@@ -2,7 +2,7 @@ h1 {
                 color= red;
                 font-size: 24 pt;
                 text-decoration: underline;
-                font-family: Tahoma, helvetica, sans-serif;
+                font-family: Tahoma, Helvetica, sans-serif;
              }
 
          em {
@@ -11,3 +11,7 @@ h1 {
              background-color: lightgrey;
              font-weight: bold;
             }
+
+         ul {
+              list-style-type: square;
+         }
